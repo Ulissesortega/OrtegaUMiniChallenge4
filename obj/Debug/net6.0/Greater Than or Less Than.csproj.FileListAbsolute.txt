@@ -1,0 +1,60 @@
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.deps.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.runtimeconfig.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/refint/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Greater Than or Less Than/obj/Debug/net6.0/ref/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.deps.json
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.runtimeconfig.json
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.pdb
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/refint/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.pdb
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Homework/4 - Greater Than or Less Than/obj/Debug/net6.0/ref/Greater Than or Less Than.dll
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.deps.json
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.runtimeconfig.json
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.dll
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/bin/Debug/net6.0/Greater Than or Less Than.pdb
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.csproj.AssemblyReference.cache
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.AssemblyInfoInputs.cache
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.AssemblyInfo.cs
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.dll
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/refint/Greater Than or Less Than.dll
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.pdb
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/Greater Than or Less Than.genruntimeconfig.cache
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/4 - Greater Than or Less Than/obj/Debug/net6.0/ref/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/bin/Debug/net6.0/Greater Than or Less Than
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/bin/Debug/net6.0/Greater Than or Less Than.deps.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/bin/Debug/net6.0/Greater Than or Less Than.runtimeconfig.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/bin/Debug/net6.0/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/bin/Debug/net6.0/Greater Than or Less Than.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/Greater Than or Less Than.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/Greater Than or Less Than.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/Greater Than or Less Than.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/Greater Than or Less Than.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/Greater Than or Less Than.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/refint/Greater Than or Less Than.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/Greater Than or Less Than.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/Greater Than or Less Than.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge4/obj/Debug/net6.0/ref/Greater Than or Less Than.dll
